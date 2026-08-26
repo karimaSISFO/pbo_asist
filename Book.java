@@ -2,8 +2,7 @@
 
 /**
  *
- * @author almashafira
-
+ * @author
 public class Book {
 
     private int id;
