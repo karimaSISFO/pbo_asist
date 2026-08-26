@@ -2,7 +2,7 @@ package b1prak713120240020.book;
 
 /**
  *
- * @author 
+ * @ 
  
 
 import java.util.List;
