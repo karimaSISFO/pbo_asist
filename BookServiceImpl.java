@@ -1,6 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-st/SystemFileSystem/Templates/Classes/Class.java to edit this template
+m/Templates/Classes/Class.java to edit this template
 
 package b1prak713120240020.book;
 
