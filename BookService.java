@@ -1,5 +1,3 @@
-java to edit this template
- 
 package b1prak713120240020.book;
 
 /**
