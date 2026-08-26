@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
-/Class.java to edit this template
-
 package b1prak713120240020.book;
 
-/**
- *
- * @author almashafira
- */
 import b1prak713120240020.config.Database;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
