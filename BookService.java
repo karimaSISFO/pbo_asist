@@ -1,9 +1,5 @@
 package b1prak713120240020.book;
 
-/**
- *
- * @ 
- 
 
 import java.util.List;
 
