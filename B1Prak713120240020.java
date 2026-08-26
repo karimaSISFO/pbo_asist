@@ -1,10 +1,6 @@
 
 package b1prak713120240020;
 
-/**
- *
- * @author almashafira
- */
 import b1prak713120240020.book.Book;
 import b1prak713120240020.book.BookService;
 import b1prak713120240020.book.BookServiceImpl;
